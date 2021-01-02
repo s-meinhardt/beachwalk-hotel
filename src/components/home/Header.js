@@ -3,7 +3,6 @@ import Hero from '../globals/Hero'
 import Banner from '../globals/Banner'
 import { PrimaryBtn } from '../globals/Buttons'
 import homeImg from '../../images/homeBcg.jpeg'
-import aboutImg from '../../images/aboutBcg.jpeg'
 
 const Header = () => {
   return (
